@@ -24,12 +24,3 @@ Please enter your language (Supported Languages: English, Portuguese) >>> englis
 Please enter your email address >>> name@example.com
 Email is Valid
 ```
-
-## Notes
-
-- The script supports English and Portuguese prompts.
-- It is intended for learning and basic validation practice.
-
-## License
-
-This project is provided as-is for learning purposes.
